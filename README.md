@@ -5,7 +5,9 @@ determine if it is viable to have a surf/ice cream shop open in Oahu year round
   <img width="187" alt="Screen Shot 2022-03-06 at 5 39 49 PM" src="https://user-images.githubusercontent.com/39388246/156953522-9a1b38f6-5ebc-407a-b587-757206d9add4.png">
 <img width="159" alt="Screen Shot 2022-03-06 at 5 39 55 PM" src="https://user-images.githubusercontent.com/39388246/156953529-654b983d-619b-479b-af53-7d438d920826.png">
 * on average the temperature was 3 degrees lower in December compared to In June.
+
 * the coldest day in december was 56 compared to 64 in June.
+
 * December had less data to work with as you can see by the count at top being lower by about 200.
 
 
